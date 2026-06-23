@@ -7,7 +7,7 @@ Sou apaixonado por construir aplicações web e desktop escaláveis que resolvem
 - 🦀 **Foco atual de estudos:** Desenvolvimento de ferramentas CLI de alta performance utilizando **Rust** (projeto *Claw Code*).
 - 🎮 **Projetos para a comunidade:** Manutenção e desenvolvimento do launcher customizado de Minecraft *Forbidden Requiem*.
 - 🤖 **Interesses em IA:** Criação de fluxos de trabalho com ferramentas generativas, prompt engineering para design de assets e integração de IA no desenvolvimento.
-- 📫 **Como me encontrar:** [Seu Email/LinkedIn Aqui]
+- 📫 **Como me encontrar:** [*************************************]
 
 ---
 
